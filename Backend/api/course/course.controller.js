@@ -5,7 +5,6 @@ const axios = require('axios');
 
 async function getCourses(req, res) {
     try {
-        console.log('I am at backend!!');
         const apiUrl = 'https://interviews.bigvu.tv/course/list';
         const auth = {
             username: 'bigvu',
