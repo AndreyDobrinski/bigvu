@@ -1,0 +1,36 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/mixins.scss";
+@import "setup/typography.scss";
+
+// Basics
+@import "basics/helpers.scss";
+@import "basics/layout.scss";
+@import "basics/base.scss";
+
+// Components
+
+////////////////// HomePage
+@import "components/appHome/sidebarNav/sidebarNav.scss";
+@import "components/appHome/welcome/welcome.scss";
+@import "components/appHome/courses/course-list.scss";
+@import "components/appHome/courses/course-preview.scss";
+
+////////////////// Header
+@import "components/app-header.scss";
+
+////////////////// CourseDetails
+@import "components/courseDetails/videoHolder/video-holder.scss";
+@import "components/courseDetails/chapterTitle/title-holder.scss";
+@import "components/courseDetails/chapters/chapter-list.scss";
+@import "components/courseDetails/chapters/chapter-preview.scss";
+@import "components/courseDetails/support/support.scss";
+
+
+
+// Pages
+@import "pages/app-home.scss";
+@import "pages/course-details.scss";
+
+
+

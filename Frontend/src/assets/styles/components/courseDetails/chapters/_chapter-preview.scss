@@ -1,0 +1,27 @@
+.chapter-preview {
+    padding: 6px;
+    font-size: 14px;
+    opacity: 0.7;
+    font-family: Inter-SemiBold;
+
+    @include for-mobile-layout {
+        font-size: 12px;
+    }
+    cursor: pointer;
+    .duration {
+        opacity: 0.7;
+    }
+    .title-box {
+        width: 80%;
+        .icon-holder {
+            margin-right: 8px;
+            img {
+            }
+        }
+        .list-num {
+        }
+        .next-chapter {
+            opacity: 0.7;
+        }
+    }
+}

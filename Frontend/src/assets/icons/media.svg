@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>94836027-73E3-448F-819F-73B7F0DACFCD</title>
+    <defs>
+        <path d="M6.17157288,0 C6.70200585,0 7.21071368,0.210713681 7.58578644,0.585786438 L8.70710678,1.70710678 C8.89464316,1.89464316 9.14899707,2 9.41421356,2 L16,2 C17.1045695,2 18,2.8954305 18,4 L18,14 C18,15.1045695 17.1045695,16 16,16 L2,16 C0.8954305,16 0,15.1045695 0,14 L0,2 C0,0.8954305 0.8954305,0 2,0 L6.17157288,0 Z M7.61803399,6.73573939 C7.34189161,6.73573939 7.11803399,6.95959702 7.11803399,7.23573939 L7.11803399,7.23573939 L7.11803399,10.9996714 C7.11803399,11.077294 7.13610653,11.1538505 7.17082039,11.2232782 C7.29431502,11.4702675 7.59465154,11.5703796 7.84164079,11.446885 L7.84164079,11.446885 L11.6055728,9.564919 C11.7023365,9.51653715 11.7807978,9.4380759 11.8291796,9.3413122 L11.8291796,9.3413122 L11.862168,9.25732239 C11.9286138,9.02976474 11.8251188,8.78026481 11.6055728,8.67049181 L11.6055728,8.67049181 L7.84164079,6.7885258 C7.77221307,6.75381194 7.69565654,6.73573939 7.61803399,6.73573939 Z" id="path-1"></path>
+        <linearGradient x1="99.3512347%" y1="50.6487653%" x2="0.648765297%" y2="50.6487653%" id="linearGradient-3">
+            <stop stop-color="#28B3F7" offset="0%"></stop>
+            <stop stop-color="#506AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Branding---Open-Menus-1440px" transform="translate(-28.000000, -253.000000)">
+            <g id="Web/Organisms/Menu" transform="translate(0.000000, 60.000000)">
+                <g id="Group" transform="translate(18.000000, 30.000000)">
+                    <g id="Web/Molecules/Menu/Buttons/Active" transform="translate(0.000000, 150.000000)">
+                        <g id="Icons/24px/medialibrary--Filled" transform="translate(10.000000, 13.000000)">
+                            <g id="medialibrary" transform="translate(3.000000, 4.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Combined-Shape" fill-rule="nonzero"></g>
+                                <g id="colors/primary/Deep-ocean" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                                    <g transform="translate(-3.000000, -4.000000)" id="color">
+                                        <rect x="0" y="0" width="24" height="24"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

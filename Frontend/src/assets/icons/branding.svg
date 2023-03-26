@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>7519B0C0-755C-4A28-841D-97943E2E65F1</title>
+    <defs>
+        <path d="M9.67424429,0.168883263 C9.92900593,0.304665455 10.1373769,0.514232742 10.2723841,0.770456986 L12.3857851,4.78139086 L16.7495098,5.36481181 C17.5379157,5.47022005 18.0920826,6.19846891 17.987276,6.99140116 C17.9486904,7.28332745 17.8225397,7.55648779 17.6256438,7.77446147 L14.4783634,11.2586588 L15.606482,16.2290568 C15.7834821,17.0089047 15.2983862,17.785407 14.5229899,17.9634232 C14.1735557,18.0436467 13.8069342,17.9899316 13.4947802,17.8127763 L8.99992226,15.2618306 L4.50506429,17.8127763 C3.81239312,18.2058847 2.93401395,17.9598174 2.54314951,17.2631696 C2.36700547,16.9492234 2.31359698,16.5804972 2.39336252,16.2290568 L3.52148114,11.2586588 L0.374200739,7.77446147 C-0.160609392,7.18239982 -0.11693762,6.26640071 0.47174437,5.72852019 C0.688473797,5.53049386 0.960074849,5.40361896 1.25033474,5.36481181 L5.61405944,4.78139086 L7.72746047,0.770456986 C8.09987825,0.0636611431 8.97148305,-0.205672587 9.67424429,0.168883263 Z" id="path-1"></path>
+        <linearGradient x1="99.3512347%" y1="50.6487653%" x2="0.648765297%" y2="50.6487653%" id="linearGradient-3">
+            <stop stop-color="#28B3F7" offset="0%"></stop>
+            <stop stop-color="#506AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Branding---Open-Menus-1440px" transform="translate(-28.000000, -203.000000)">
+            <g id="Web/Organisms/Menu" transform="translate(0.000000, 60.000000)">
+                <g id="Group" transform="translate(18.000000, 30.000000)">
+                    <g id="Web/Molecules/Menu/Buttons/Active" transform="translate(0.000000, 100.000000)">
+                        <g id="Icons/24px/brand-filled" transform="translate(10.000000, 13.000000)">
+                            <g id="brand" transform="translate(3.000000, 3.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Brand" fill-rule="nonzero"></g>
+                                <g id="colors/primary/BlueBlack" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                                    <g transform="translate(-3.000000, -3.000000)" id="color">
+                                        <rect x="0" y="0" width="24" height="24"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

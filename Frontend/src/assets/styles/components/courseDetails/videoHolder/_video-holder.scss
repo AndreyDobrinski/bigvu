@@ -1,0 +1,16 @@
+.video-holder {
+    width: 63%;
+    margin-right: 24px;
+    @include for-mobile-layout {
+        width: unset;
+    }
+    @include for-normal-layout {
+        margin-right: unset;
+        margin-bottom: 25px;
+        width: unset;
+    }
+    @include for-wide-layout {
+        width: 63%;
+        margin-right: 24px;
+    }
+}

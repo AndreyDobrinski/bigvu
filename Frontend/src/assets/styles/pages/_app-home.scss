@@ -1,0 +1,23 @@
+.app-home {
+    height: 93%;
+    .app-home-content {
+        width: 100%;
+        padding: 0 10px;
+        .content {
+            width: 100%;
+            @include for-wide-layout {
+                width: 85%;
+            }
+            margin: 0 auto;
+            .content-header {
+                font-size: 20px;
+                margin-bottom: 12px;
+            }
+            .content-desc {
+                font-size: 14px;
+                margin-bottom: 32px;
+                width: 100%;
+            }
+        }
+    }
+}

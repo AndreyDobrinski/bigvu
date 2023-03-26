@@ -1,0 +1,91 @@
+.welcome {
+    background: linear-gradient(270deg, #28b3f7 0.65%, #506aff 99.35%);
+    border-radius: 24px;
+    flex-direction: column;
+    margin-top: 16px;
+    padding: 20px;
+    margin-bottom: 40px;
+    @include for-mobile-layout {
+        padding: 16px;
+    }
+    @include for-narrow-layout {
+        padding: 40px;
+    }
+    .welcome-title {
+        font-family: Inter-Bold;
+        line-height: 44px;
+        color: #fff;
+        margin-bottom: 24px;
+        font-size: 24px;
+        @include for-mobile-layout {
+            font-size: 16px;
+        }
+        @include for-narrow-layout {
+            font-size: 36px;
+        }
+    }
+    .welcome-desc {
+        color: #fff;
+        font-size: 14px;
+        line-height: 19px;
+        margin-bottom: 24px;
+        @include for-mobile-layout {
+            font-size: 12px;
+        }
+        @include for-narrow-layout {
+            font-size: 16px;
+        }
+    }
+    .welcome-buttons {
+        .welcome-btn {
+            flex-direction: column;
+            width: 25%;
+            .icon-holder {
+                margin-bottom: 16px;
+                width: 68px;
+                height: 68px;
+                position: relative;
+                @include for-mobile-layout {
+                    width: 48px;
+                    height: 48px;
+                }
+                img {
+                    width: 70%;
+                    height: 100%;
+                    object-fit: contain;
+                    object-position: center;
+                    @include for-mobile-layout {
+                        width: 50%;
+                    }
+                }
+            }
+            .icon-holder::after {
+                content: "";
+                position: absolute;
+                width: 68px;
+                height: 68px;
+                background: #ffffff;
+                opacity: 0.2;
+                top: 0;
+                left: 0;
+                border-radius: 20px;
+                transform: rotate(-10deg);
+                @include for-mobile-layout {
+                    width: 48px;
+                    height: 48px;
+                }
+            }
+            .icon-desc {
+                color: #fff;
+                font-size: 12px;
+                @include for-mobile-layout {
+                    width: 100px;
+                    font-size: 9px;
+                }
+                @include for-narrow-layout {
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+}

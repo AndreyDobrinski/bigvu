@@ -1,0 +1,11 @@
+.course-list {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    position: relative;
+    @include for-mobile-layout {
+        align-items: unset;
+        flex-wrap: unset;
+        flex-direction: column;
+    }
+}

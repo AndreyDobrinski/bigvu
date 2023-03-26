@@ -1,0 +1,44 @@
+.app-course {
+    .content {
+        .go-back-holder {
+            background-color: #25365814;
+            border-radius: 10px;
+            width: 32px;
+            height: 32px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            img {
+            }
+        }
+        .box {
+            margin-top: 60px;
+            @include for-normal-layout {
+                flex-direction: column;
+            }
+            @include for-wide-layout {
+                flex-direction: row;
+            }
+            .playlist-holder {
+                position: relative;
+                color: #253658;
+                @include for-normal-layout {
+                    width: unset;
+                    min-width: unset;
+                }
+                @include for-wide-layout {
+                    width: 35%;
+                    min-width: 400px;
+                }
+
+                .selected {
+                    background-color: rgba(0, 171, 254, 0.12);
+                    transform: translateX(0px);
+                    transition: 0.4s;
+                }
+            }
+        }
+    }
+}
+

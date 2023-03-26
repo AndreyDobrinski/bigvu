@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8B275AEA-A43C-4E8C-AC35-81AEAB610704</title>
+    <defs>
+        <path d="M9.03704927,1.94712715 C9.26727871,1.71575937 9.6414772,1.71483656 9.87284498,1.945066 C10.0864152,2.15758548 10.10363,2.49277681 9.92393303,2.72506422 L9.87490613,2.7808617 L5.56366088,7.11266823 L9.87283986,11.4010386 C10.0864127,11.6135555 10.1036316,11.9487466 9.92393744,12.1810362 L9.87491122,12.2368343 C9.66239435,12.4504071 9.32720323,12.467626 9.09491362,12.2879319 L9.03911554,12.2389056 L4.31112669,7.53429377 C4.09755199,7.32177506 4.08033491,6.98658044 4.26003314,6.75429095 L4.30906042,6.69849297 L9.03704927,1.94712715 Z" id="path-1"></path>
+    </defs>
+    <g id="⚡️Interaction" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Collection---Change-user-image-#1" transform="translate(-550.000000, -106.000000)">
+            <g id="Default-Player" transform="translate(548.500000, 85.000000)">
+                <g id="Icons/Back-2px" transform="translate(1.850083, 21.584297)">
+                    <rect id="bb" x="0" y="0" width="14.1839666" height="14.1839666"></rect>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Path-21" fill="#979797" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Colors/BlueBlack/100" mask="url(#mask-2)" fill="#253658">
+                        <rect id="Color" x="0" y="0" width="14.1839666" height="14.1839666"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
